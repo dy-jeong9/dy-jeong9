@@ -16,9 +16,11 @@
 
 👉 Contact  <br/>
 
-<a href="mailto:dyjeong.dev@gmail.com">
-    <img src="https://img.shields.io/badge/dyjeong.dev@gmail.com-D14836?style=social&logo=gmail&logoColor=EA4335"/>
+<a href="mailto:dayoon.jeong9@gmail.com">
+    <img src="https://img.shields.io/badge/dayoon.jeong9@gmail.com-D14836?style=social&logo=gmail&logoColor=EA4335"/>
 </a> 
+
+<br/>
 
 <br/>
 
@@ -33,6 +35,8 @@
 <a href="https://dynamoj.tistory.com/">
     <img src="https://img.shields.io/badge/%EB%B8%94%EB%A1%9C%EA%B7%B8-white?style=social&logo=tistory&logoColor=ff5544"/>
 </a>
+
+<br/>
 
 <br/>
 
