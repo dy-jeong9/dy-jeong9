@@ -17,7 +17,7 @@
 👉 Contact  <br/>
 
 <a href="mailto:dayoon.jeong9@gmail.com">
-    <img src="https://img.shields.io/badge/dayoon.jeong9@gmail.com-D14836?style=social&logo=gmail&logoColor=EA4335"/>
+    <img src="https://img.shields.io/badge/-D14836?style=social&logo=gmail&logoColor=EA4335"/> dayoon.jeong9@gmail.com
 </a> 
 
 <br/>
