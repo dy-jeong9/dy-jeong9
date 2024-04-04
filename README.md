@@ -28,7 +28,7 @@
 
 🔗 Page <br/>
 
-<a href="[www.salesforce.com/trailblazer/dayoonjeong](https://www.salesforce.com/trailblazer/dayoonjeong)">
+<a href="www.salesforce.com/trailblazer/dayoonjeong">
     <img src="https://img.shields.io/badge/Salesforce%20%ED%94%84%EB%A1%9C%ED%95%84-white?style=social&logo=salesforce&logoColor=00A1E0"/>
 </a>
 <br/>
