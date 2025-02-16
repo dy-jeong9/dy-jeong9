@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:afdced,100:00A1E0&height=300&section=header&text=Welcome%20to&fontSize=50&fontAlignY=35&descAlignY=50  )
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:afdced,100:00A1E0&height=300&section=header&text=Welcome&fontSize=50&fontAlignY=35&descAlignY=50  )
 
 
 안녕하세요. 세일즈포스 개발자 J입니다. ☁️
